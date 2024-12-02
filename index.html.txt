@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Footbar App</title>
+</head>
+<body>
+  <h1>Benvenuto nella tua app di statistica Footbar!</h1>
+  <button onclick="importStats()">Importa i miei dati</button>
+
+  <script>
+    function importStats() {
+      alert("Funzione di importazione dati in lavorazione...");
+    }
+  </script>
+</body>
+</html>
